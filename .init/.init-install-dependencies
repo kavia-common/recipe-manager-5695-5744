@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/recipe-manager-5695-5744/recipe_frontend"
+}
